@@ -12,7 +12,7 @@ Replay a HTTP Archive file as close as possible to the request section. If reque
 
 pluck-har.pl THENAMEOFTHEHARFILE.har
 
-5. Enjoy you're downloads
+5. Enjoy your downloads
 
 # Caveats
 
